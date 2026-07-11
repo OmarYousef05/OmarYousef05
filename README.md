@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineer | AI, Robotics, Computer Vision and Embedded Systems</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="www.linkedin.com/in/omar-yousef-0b653332b">LinkedIn</a> •
   <a href="mailto:omarnizam108@gmail.com">Email</a>
 </p>
 
@@ -57,4 +57,3 @@ I am currently expanding my work in robotics, embedded AI, computer vision, and 
 ## Connect
 
 The best way to reach me is through LinkedIn or email.
-www.linkedin.com/in/omar-yousef-0b653332b
