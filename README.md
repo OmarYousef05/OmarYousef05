@@ -1,112 +1,212 @@
 <div align="center">
 
-# Hi, I’m Omar Yousef 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0B4F6C,100:00B4D8&text=Omar%20Yousef&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Computer%20Engineer%20%7C%20AI%20%7C%20Robotics%20%7C%20Embedded%20Systems&descAlignY=57&animation=fadeIn" alt="Omar Yousef Header"/>
 
-### Computer Engineer building intelligent systems where AI meets the physical world
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=850&lines=Building+systems+that+can+see%2C+think%2C+and+act;Turning+AI+ideas+into+real+working+systems;Robotics+%7C+Computer+Vision+%7C+Edge+AI" alt="Typing SVG"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/omar-yousef-0b653332b">
-    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Yousef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:omarnizam108@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/omar-yousef-0b653332b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:omarnizam108@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
-## About Me
+<br/>
 
-I am a Computer Engineering graduate from Khalifa University with a strong interest in artificial intelligence, robotics, computer vision, and embedded systems.
+## 👋 About Me
 
-I enjoy turning ideas into working systems by combining software, hardware, and real time intelligence. My experience includes autonomous UAVs, humanoid robotics, edge AI, AI automation, full stack development, and research driven engineering projects.
+I am a Computer Engineering graduate from Khalifa University, where I graduated with Excellence and Highest Honors.
 
-I have represented the Khalifa University Robotics Team at RoboCup Asia Pacific 2025 in the UAE, RoboCup Asia Pacific 2026 in Tianjin, China, and RoboCup 2026 in South Korea.
+My work sits at the intersection of artificial intelligence, robotics, computer vision, and embedded systems. I enjoy taking ambitious ideas from concept to deployment by combining software, hardware, real time intelligence, and practical engineering.
 
-## What I Build
+I have worked on autonomous UAVs, humanoid robot football, edge AI systems, AI automation, full stack applications, and research driven technical projects.
 
-🤖 Humanoid robotics and autonomous behaviour  
-🧠 Real time computer vision and edge AI  
-🚁 Intelligent embedded and autonomous systems  
-⚙️ AI automation and backend integrations  
-💻 Full stack applications and engineering tools  
+> **My goal is simple: build intelligent systems that create real world impact.**
 
-## Selected Experience
+<br/>
 
-### Khalifa University Robotics Team
+## 🚀 What I Build
 
-Contributed to humanoid robot software, testing, and competition deployment.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Worked on the robot’s adjust and chase behaviours, including positioning, ball tracking, movement, and decision making during football matches.
+### 🤖 Intelligent Robots
 
-Supported ROS based development, debugging, system integration, and field testing across international robotics competitions.
+Humanoid robotics, autonomous behaviour, motion logic, robot positioning, ball tracking, and competition testing.
 
-### Autonomous UAV with On Device Face Recognition
+</td>
+<td width="50%" valign="top">
 
-Designed and built an autonomous UAV using Jetson Orin Nano with fully on device face recognition.
+### 🧠 Edge AI Systems
 
-Developed a CUDA and TensorRT inference pipeline for low latency real time performance without cloud dependency.
+Real time computer vision, on device inference, TensorRT optimization, and privacy focused AI deployment.
 
-Integrated computer vision, embedded computing, secure local storage, and field validation into a complete working system.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### AI Automation and Software Development
+### 🚁 Autonomous Platforms
 
-Built AI powered WhatsApp and voice automation systems integrated with backend APIs.
+Embedded computing, UAV intelligence, sensor integration, field validation, and reliable system deployment.
 
-Developed web applications, REST APIs, and automated client workflows using tools such as React, Node.js, HubSpot, and n8n.
+</td>
+<td width="50%" valign="top">
 
-## Featured Projects
+### ⚙️ AI Automation
 
-### Autonomous UAV with On Device Face Recognition
+Backend integrations, intelligent workflows, voice and messaging automation, and production focused tools.
 
-**Technologies:** Jetson Orin Nano, CUDA, TensorRT, OpenCV, Python
+</td>
+</tr>
+</table>
 
-An edge AI system for real time face recognition and autonomous deployment in field environments.
+<br/>
 
-### Embedded AI Focus Monitoring System
+## 🏆 Robotics Journey
 
-**Technologies:** Arduino Nano 33 BLE Sense, Edge Impulse, Bluetooth, JavaScript
+<div align="center">
 
-A non wearable focus monitoring system using physiological and motion sensor data with an on device neural network and connected web dashboard.
+<img src="https://img.shields.io/badge/RCAP%202025-UAE-1E88E5?style=for-the-badge" alt="RCAP 2025 UAE"/>
+<img src="https://img.shields.io/badge/RCAP%202026-Tianjin%2C%20China-43A047?style=for-the-badge" alt="RCAP 2026 Tianjin"/>
+<img src="https://img.shields.io/badge/RoboCup%202026-South%20Korea-F57C00?style=for-the-badge" alt="RoboCup 2026 South Korea"/>
 
-### Real Time Multimedia Streaming System
+</div>
 
-**Technologies:** C, TCP/IP, Multithreading, Wireshark
+As part of the Khalifa University Robotics Team, I contributed to humanoid robot software, debugging, system integration, testing, and competition deployment.
 
-A custom client server system for real time audio and video streaming with performance testing and network analysis.
+My work included improving robot **adjust and chase behaviours**, with a focus on positioning, ball tracking, movement, and decision making during matches.
 
-### Bioinformatics Variant Assistant
+<br/>
 
-**Technologies:** Python, VCF Data, InterVar API, AI Chatbot
+## 🌟 Featured Engineering Work
 
-An AI assisted workflow designed to simplify genetic variant lookup and support bioinformatics research.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Technical Toolbox
+### 🚁 Autonomous UAV with On Device Face Recognition
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,react,nodejs,pytorch,tensorflow,opencv,arduino,raspberrypi,linux,docker,git,matlab" alt="Technical Skills">
-</p>
+Built an autonomous UAV using **Jetson Orin Nano**, with fully on device face recognition and no cloud dependency.
 
-**AI and Computer Vision**  
-PyTorch, TensorFlow, OpenCV, TensorRT, CUDA, Edge Impulse
+**Highlights**
 
-**Robotics and Embedded Systems**  
-ROS, Jetson Orin Nano, Arduino, Raspberry Pi, Coral TPU, sensors, real time systems
+• CUDA and TensorRT inference pipeline  
+• Under 150 ms latency  
+• More than 20 FPS  
+• Secure local processing and storage  
+• Field tested system integration  
 
-**Software and Automation**  
-React, Node.js, REST APIs, HubSpot, n8n
+**Tech**
 
-**Security and Networking**  
-Wireshark, Snort, Nmap, Nikto, Kali Linux, VMware
+`Jetson` `CUDA` `TensorRT` `OpenCV` `Python`
 
-## Current Focus
+</td>
+<td width="50%" valign="top">
 
-I am currently expanding my work in robotics, embedded AI, computer vision, and intelligent systems while sharing more of my projects and technical work publicly.
+### 🤖 KURA Humanoid Robotics
 
-## Let’s Connect
+Developed and tested software for humanoid football robots within a ROS based architecture.
 
-I am always interested in meaningful engineering challenges, collaborative projects, and opportunities in AI, robotics, embedded systems, and software development.
+**Highlights**
 
-<p align="center">
-  <b>Building systems that can see, think, and act.</b>
-</p>
+• Robot positioning and chase logic  
+• Ball tracking and movement behaviour  
+• Multi robot communication support  
+• Competition debugging and deployment  
+• International robotics experience  
+
+**Tech**
+
+`ROS` `C++` `Python` `Computer Vision` `Control`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Embedded AI Focus Monitor
+
+Created a non wearable focus monitoring system using physiological and motion sensor data.
+
+**Highlights**
+
+• On device neural network  
+• Arduino Nano 33 BLE Sense  
+• Edge Impulse deployment  
+• Bluetooth connected dashboard  
+• Real time sensor processing  
+
+**Tech**
+
+`Arduino` `TinyML` `Edge Impulse` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ AI Automation and Software
+
+Built AI powered WhatsApp and voice automation systems connected to backend services and business workflows.
+
+**Highlights**
+
+• API driven architecture  
+• Intelligent workflow automation  
+• CRM and client integrations  
+• React and Node.js applications  
+• Production testing and deployment  
+
+**Tech**
+
+`React` `Node.js` `REST APIs` `HubSpot` `n8n`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Technical Toolbox
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,verilog&perline=6" alt="Languages"/>
+
+### AI, Robotics and Embedded Systems
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,raspberrypi,ros&perline=6" alt="AI Robotics Embedded"/>
+
+### Software and Tools
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,git,linux,matlab&perline=6" alt="Software Tools"/>
+
+</div>
+
+<br/>
+
+## 🔍 Areas of Interest
+
+`Artificial Intelligence` `Robotics` `Computer Vision` `Embedded Systems` `Edge AI` `Autonomous Systems` `AI Automation` `Software Engineering`
+
+<br/>
+
+## 📌 Current Focus
+
+I am currently expanding my work in robotics, embedded AI, computer vision, and intelligent systems while making more of my engineering projects publicly available.
+
+<br/>
+
+<div align="center">
+
+### Let’s build something meaningful.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:0B4F6C,100:00B4D8" width="100%" alt="Footer"/>
+
+</div>
