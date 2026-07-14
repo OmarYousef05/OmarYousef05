@@ -106,6 +106,12 @@ Built an autonomous UAV using **Jetson Orin Nano**, with fully on device face re
 
 `Jetson` `CUDA` `TensorRT` `OpenCV` `Python`
 
+<br/>
+
+<a href="https://github.com/OmarYousef05/autonomous-uav-face-recognition">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Autonomous UAV Repository"/>
+</a>
+
 </td>
 <td width="50%" valign="top">
 
