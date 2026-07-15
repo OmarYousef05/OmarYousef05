@@ -159,6 +159,12 @@ Created a non wearable focus monitoring system using physiological and motion se
 
 `Arduino` `TinyML` `Edge Impulse` `JavaScript`
 
+<br/>
+
+<a href="https://github.com/OmarYousef05/embedded-ai-focus-monitor">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Embedded AI Focus Monitor Repository"/>
+</a>
+
 </td>
 <td width="50%" valign="top">
 
