@@ -131,6 +131,12 @@ Developed and tested software for humanoid football robots within a ROS based ar
 
 `ROS` `C++` `Python` `Computer Vision` `Control`
 
+<br/>
+
+<a href="https://github.com/OmarYousef05/kura-humanoid-robotics">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View KURA Humanoid Robotics Repository"/>
+</a>
+
 </td>
 </tr>
 <tr>
